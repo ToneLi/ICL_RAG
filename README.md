@@ -1,6 +1,4 @@
 # ICL_RAG
-## Main Notebook
-
 ### `ICL_equ_GD.ipynb`
 
 This is the main notebook of the repository. It includes the core experiments and analysis for comparing in-context learning behavior with gradient-descent-style updates.
